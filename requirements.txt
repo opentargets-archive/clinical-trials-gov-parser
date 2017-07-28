@@ -1,0 +1,5 @@
+pandas
+tqdm
+elasticsearch==5.3.0
+certifi
+geopy
